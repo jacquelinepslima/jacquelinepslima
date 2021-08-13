@@ -1,7 +1,7 @@
 ### Hello world! Eu sou a Jacqueline Lima 👩🏻
 
 
-- 🔭 Hoje trabalho como professora
+- 🔭 Consultora de Soluções Customizadas I at Capgemini
 - 🌱 Estudando Javascript | Node.js
 - 😄 Pronomes: Ela/dela
 
