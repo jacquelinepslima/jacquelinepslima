@@ -2,7 +2,7 @@
 
 
 - 🔭 Consultora de Soluções Customizadas I at Capgemini
-- 🌱 Estudando Javascript | Node.js
+- 🌱 Estudando Javascript | Node.js | Java | Angular
 - 😄 Pronomes: Ela/dela
 
  <div style="display: inline_block">
