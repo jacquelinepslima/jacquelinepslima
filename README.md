@@ -2,7 +2,9 @@
 
 
 - 🔭 Consultora de Soluções Customizadas I at Capgemini
-- 🌱 Estudando Javascript | Node.js | Java | Angular
+- 🌱 Estudando Java | Angular 
+- 🌱 Linguagens: HTML | CSS | JS | Angular | Java
+      Banco de dados: MySQL
 - 😄 Pronomes: Ela/dela
 
  <div style="display: inline_block">
