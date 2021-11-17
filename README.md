@@ -4,7 +4,7 @@
 - 🔭 Consultora de Soluções Customizadas I at Capgemini
 - 🌱 Estudando Java | Angular 
 - 🌱 Linguagens: HTML | CSS | JS | Angular | Java
-      Banco de dados: MySQL
+   - Banco de dados: MySQL
 - 😄 Pronomes: Ela/dela
 
  <div style="display: inline_block">
