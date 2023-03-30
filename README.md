@@ -1,10 +1,10 @@
 ### Hello world! Eu sou a Jacqueline Lima 👩🏻
 
 
-- 🔭 Consultora de Soluções Customizadas I at Capgemini
-- 🌱 Estudando Java | Spring | Javascript | Node Js
+- 🔭 Jr Java Developer
+- 🌱 Estudando Java | Spring
 - 🌱 Linguagens: HTML | CSS | JS | Java
-   - Banco de dados: MySQL
+- 🌱 Banco de dados: MySQL | MongoDB
 - 😄 Pronomes: Ela/dela
 
  <div style="display: inline_block">
