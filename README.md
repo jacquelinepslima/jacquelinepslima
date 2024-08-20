@@ -1,7 +1,7 @@
 ### Hello world! Eu sou a Jacqueline Lima 👩🏻
 
 
-- 🔭 Jr Java Developer
+- 🔭 Mid Java Developer
 - 🌱 Estudando Java | Spring
 - 🌱 Linguagens: HTML | CSS | JS | Java
 - 🌱 Banco de dados: MySQL | MongoDB
