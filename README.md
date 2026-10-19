@@ -1,6 +1,6 @@
 ### 👋 Hello, I’m Jacqueline Lima
 
-#### 💻 Software Developer | 4 Years of Experience
+#### 💻 Software Developer | 5 Years of Experience
  - Passionate about software development, building scalable back-end solutions, and sharing knowledge.
  - Experienced with **Java, Python, Terraform**, and modern software architecture practices.
 
